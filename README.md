@@ -16,7 +16,7 @@
 Welcome to Fintech DevCon 2021! We're glad you could join us for three days of developer-focused workshops, keynotes, panels, and networking. Please refer to the agenda below for the most up-to-date conference schedule.
 
 ## Tuesday, September 7
-### Registration: 7:00am-5:00pm
+### Registration: 1:00pm-7:00pm
 | Event             | Time            | Location         |
 |-------------------|-----------------|------------------|
 | Build-a-Bike Charity Event      | 3:00pm - 5:00pm | Centennial DE    |
