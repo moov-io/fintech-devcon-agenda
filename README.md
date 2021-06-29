@@ -60,7 +60,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 |---------------------------------------------------------------------------------------------------------------------------------------------|-------------------|------------------|
 | Breakfast/Coffee                                                                                                                            | 7:30am - 8:30am   | Centennial ABC   |
 | Opening Remarks                                                                                                                             | 8:30am - 8:45am   | Centennial DE    |
-| Keynote - [Very Good Security](https://www.verygoodsecurity.com/) ([Marshall Jones](https://www.linkedin.com/in/marshalljones2/))                                                          | 8:45am - 9:30am   | Centennial DE    |
+| Keynote - [Dwolla](https://www.dwolla.com/) ([Ben Milne](https://benmilne.com/))                                                          | 8:45am - 9:30am   | Centennial DE    |
 | AM Break                                                                                                                                    | 9:30am - 10:00am  | Centennial Foyer |
 | Roadblock Talks - Fintech @ JPMorgan ([Brody Mulderig](https://www.linkedin.com/in/mulderig/))                                                                                       | 10:00am - 10:45am | Centennial DE    |
 | [ZSuite](https://www.zsuitetech.com/) – “Using terraform and AWS to create environments on the fly”                                         | 10:00am - 11:30am | Centennial F     |
@@ -75,7 +75,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Exhibitor Teardown                                                                                                                         | 2:30pm - 4:00pm   | Centennial Foyer |
 | Roadblock Talks - [Currencycloud](https://www.currencycloud.com/) ([Cara Hayward](https://www.linkedin.com/in/cara-hayward-b3a80b3/))                                                            | 2:30pm - 3:15pm   | Centennial DE    |
 | [Atomic](https://atomic.vc/) – “Scraping and reverse engineering, you have to do it, might as well do it right"                                              | 2:30pm - 4:00pm   | Centennial F     |
-| [Lightning Labs](https://lightning.engineering/) – “Intro to Lightning Network by [Carla Kirk-Cohen](https://twitter.com/actuallycarlakc?lang=en)”                                                  | 2:30pm - 4:00pm   | Centennial G     |
+| [Lightning Labs](https://lightning.engineering/) – “Intro to Lightning Network by [Jamal James](https://twitter.com/jamaljsr)”                                                  | 2:30pm - 4:00pm   | Centennial G     |
 | [Daylight](https://joindaylight.com/) – “Building inclusive fintech from source code to messaging”                                          | 2:30pm - 4:00pm   | Centennial H     |
 | [Al Hertz](https://hey.al/) – “Design Workshop from Plaid”                                                                                  | 2:30pm - 4:00pm   | Mineral D-G      |
 | [Unit21](https://www.unit21.ai/) - Dealing with Data in Dynamic Systems                                                                     | 3:15pm - 4:00pm   | Centennial DE    |
