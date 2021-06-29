@@ -19,10 +19,10 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 ### Registration: 1:00pm-5:30pm
 | Event             | Time            | Location         |
 |-------------------|-----------------|------------------|
-| GS Set-up         | 8:00am - 6:00pm | Centennial DE    |
-| Exhibitor Set-up  | 9:00am - 3:00pm | Centennial Foyer |
+| Registration Open | 1:00pm - 7:00pm | Centennial Foyer |
+| Build-a-bike      | 3:00pm - 5:00pm | Centennial DE    |
 | Welcome Reception | 5:30pm - 7:00pm | TBD              |
-| VIP Dinner        | 7:30pm - 9:00pm | TBD              |
+
 
 ## Wednesday, September 8
 ### Registration: 7:00am-5:00pm
