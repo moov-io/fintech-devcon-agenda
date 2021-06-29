@@ -16,10 +16,10 @@
 Welcome to Fintech DevCon 2021! We're glad you could join us for three days of developer-focused workshops, keynotes, panels, and networking. Please refer to the agenda below for the most up-to-date conference schedule.
 
 ## Tuesday, September 7
+### Registration: 7:00am-5:00pm
 | Event             | Time            | Location         |
 |-------------------|-----------------|------------------|
-| Registration Open | 1:00pm - 7:00pm | Centennial Foyer |
-| Build-a-bike      | 3:00pm - 5:00pm | Centennial DE    |
+| Build-a-Bike Charity Event      | 3:00pm - 5:00pm | Centennial DE    |
 | Welcome Reception | 5:30pm - 7:00pm | TBD              |
 
 
@@ -29,7 +29,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|------------------|
 | Breakfast/Coffee                                                                                                                        | 7:30am - 8:30am   | Centennial ABC   |
 | Opening Remarks – [Wade Arnold](https://www.linkedin.com/in/wadearnold/)                                                                                                           | 8:30am - 8:45am   | Centennial DE    |
-| Keynote - [Angela Strange](https://a16z.com/author/angela-strange/)                                                                     | 8:45am - 9:30am   | Centennial DE    |
+| Keynote - [Angela Strange](https://a16z.com/author/angela-strange)                                                     | 8:45am - 9:30am   | Centennial DE    |
 | AM Break                                                                                                                                | 9:30am - 10:00am  | Centennial Foyer |
 | Roadblock Talks - [Mengxi Lu](https://mengxi.lu/)                                                                                       | 10:00am - 10:45am | Centennial DE    |
 | [HMBradley](https://www.hmbradley.com/) – “Building for the customer you want”                                                          | 10:00am - 11:30am | Centennial F     |
