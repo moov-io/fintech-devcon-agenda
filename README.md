@@ -65,7 +65,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Roadblock Talks | [Brody Mulderig](https://fintechdevcon.io/speakers/brody-mulderig/) (Fintech @ JPMorgan) | 10:00am - 10:45am | Centennial DE |
 | Workshop – “Using terraform and AWS to create environments on the fly” | [ZSuite](https://www.zsuitetech.com/) | 10:00am - 11:30am | Centennial F |
 | Workshop - “Intro to InfoSec” | [Very Good Security](https://www.verygoodsecurity.com/) | 10:00am - 11:30am | Centennial G |
-| Workshop – “QLDB deep dive” | [Cove](cove.io) | 10:00am - 11:30am | Centennial H |
+| Workshop – “QLDB deep dive” | [Cove](https://www.cove.io/) | 10:00am - 11:30am | Centennial H |
 | Workshop – “Preventing sophisticated fraud attempts” | [Sardine AI](https://www.sardine.ai/) | 10:00am - 11:30am | Mineral A-C |
 | Workshop – ”Building great lending experiences” | [Lendflow](https://www.lendflow.io/) | 10:00am - 11:30am | Mineral D-G |
 | Roadblock Talks | [Saira Rahman](https://fintechdevcon.io/speakers/saira-rahman/) ([HMBradley](https://www.hmbradley.com/)) | 10:45am - 11:30am | Centennial DE |
@@ -81,5 +81,5 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Roadblock Talks - Dealing with Data in Dynamic Systems | [Trisha Kothari](https://fintechdevcon.io/speakers/trisha-kothari/) ([Unit21](https://www.unit21.ai/)) | 3:15pm - 4:00pm | Centennial DE |
 | Roadblock Talks | [Jeremy Allaire](https://fintechdevcon.io/speakers/jeremy-allaire/) ([Circle]( https://www.circle.com/en/)) and [Terry Angelos](https://fintechdevcon.io/speakers/terry-angelos/) (Visa) | 3:15pm - 4:00pm | Centennial DE |
 | PM Break |  | 4:00pm - 4:30pm | Centennial Foyer |
-| Keynote | [Brandon DeWitt](https://fintechdevcon.io/speakers/brandon-dewitt/) ([MX](https://www.mx.com/)) | 4:30pm - 5:15pm | Centennial DE |
+| Keynote | [Brandon Dewitt](https://fintechdevcon.io/speakers/brandon-dewitt/) ([MX](https://www.mx.com/)) | 4:30pm - 5:15pm | Centennial DE |
 | Closing Remarks | [Wade Arnold](https://www.linkedin.com/in/wadearnold/) ([Moov Financial](https://moov.io/)) | 5:15pm - 5:30pm | Centennial DE |
