@@ -71,14 +71,13 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Lunch |  | 11:30am - 12:30am | Centennial ABC |
 | Panel – “Build vs. Buy” | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/), [Zach Bruhnke](https://fintechdevcon.io/speakers/zach-bruhnke/), [Shamir Karkal](https://fintechdevcon.io/speakers/shamir-karkal/), [Jason Henrichs](https://fintechdevcon.io/speakers/jason-henrichs/) | 12:30pm - 1:30pm | Centennial DE |
 | Exhibitor Networking |  | 1:30pm - 2:30pm | Centennial Foyer |
-| Exhibitor Teardown |  | 2:30pm - 4:00pm | Centennial Foyer |
 | Roadblock Talks | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/) ([Chime](https://www.chime.com/)) | 2:30pm - 3:15pm | Centennial DE |
 | Workshop - “Scraping and reverse engineering, you have to do it, might as well do it right" | [Alex Mueller](https://fintechdevcon.io/speakers/alex-mueller/) ([Atomic](https://atomic.vc/)) | 2:30pm - 4:00pm | Centennial F |
 | Workshop – “Intro to Lightning Network" | [Jamal James](https://fintechdevcon.io/speakers/jamal-james/) ([Lightning Labs](https://lightning.engineering/)) | 2:30pm - 4:00pm | Centennial G |
 | Workshop – “Building inclusive fintech from source code to messaging” | [Paul Barnes-Hogget](https://fintechdevcon.io/speakers/paul-barnes-hoggett/) ([Daylight](https://joindaylight.com/)) | 2:30pm - 4:00pm | Centennial H |
 | Workshop – “Design Workshop from Plaid” | [Sneha Khullar](https://www.linkedin.com/in/snehakhullar/) ([Plaid](https://plaid.com/)) | 2:30pm - 4:00pm | Mineral D-G |
-| Roadblock Talks - Dealing with Data in Dynamic Systems | [Trisha Kothari](https://fintechdevcon.io/speakers/trisha-kothari/) ([Unit21](https://www.unit21.ai/)) | 3:15pm - 4:00pm | Centennial DE |
-| Roadblock Talks | [Jeremy Allaire](https://fintechdevcon.io/speakers/jeremy-allaire/) ([Circle]( https://www.circle.com/en/)) and [Terry Angelos](https://fintechdevcon.io/speakers/terry-angelos/) ([Visa](https://usa.visa.com/visa-home.html)) | 3:15pm - 4:00pm | Centennial DE |
+| Roadblock Talks - "Dealing with Data in Dynamic Systems" | [Trisha Kothari](https://fintechdevcon.io/speakers/trisha-kothari/) ([Unit21](https://www.unit21.ai/)) | 3:15pm - 4:00pm | Centennial DE |
+| Roadblock Talks | [Terry Angelos](https://fintechdevcon.io/speakers/terry-angelos/) ([Visa](https://usa.visa.com/visa-home.html)) | 3:15pm - 4:00pm | Centennial DE |
 | PM Break |  | 4:00pm - 4:30pm | Centennial Foyer |
 | Keynote | [Brandon Dewitt](https://fintechdevcon.io/speakers/brandon-dewitt/) ([MX](https://www.mx.com/)) | 4:30pm - 5:15pm | Centennial DE |
 | Closing Remarks | [Wade Arnold](https://www.linkedin.com/in/wadearnold/) ([Moov Financial](https://moov.io/)) | 5:15pm - 5:30pm | Centennial DE |
