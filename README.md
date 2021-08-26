@@ -67,7 +67,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Roadblock Talks - Card Payments 101: From Swipe to Settlement  | [Pritee Tembhekar](https://fintechdevcon.io/speakers/pritee-tembheka/) ([Lithic](https://lithic.com/)) | 9:30am - 10:15am | Centennial G |
 | Workshop – Using Terraform and AWS to Create Environments on the Fl | [Aaron Junod](https://fintechdevcon.io/speakers/aaron-junod/) ([ZSuite](https://www.zsuitetech.com/)) | 9:30am - 11:00am | Centennial A |
 | Workshop - Secure Your Data Computations Efficiently | [Mohamad El Hajj](https://moehajj.github.io/) ([Very Good Security](https://www.verygoodsecurity.com/)) | 9:30am - 11:00am | Centennial B |
-| Workshop – QLDB Deep Dive | [Omi Chowdhury](https://fintechdevcon.io/speakers/omi-chowdhury/) (Fragment)[https://fragment.dev/] | 9:30am - 11:00am | Centennial C |
+| Workshop – QLDB Deep Dive | [Omi Chowdhury](https://fintechdevcon.io/speakers/omi-chowdhury/) [Fragment](https://fragment.dev/) | 9:30am - 11:00am | Centennial C |
 | Workshop – Preventing Sophisticated Fraud Attempts | [Soups Ranjan](https://fintechdevcon.io/speakers/soups-rajan/) ([Sardine AI](https://www.sardine.ai/)) | 9:30am - 11:30am | Centennial F |
 | Roadblock Talks - War Stories From a Quarter Century in Payments | Todd Ablowitz ([Infinicept](https://www.infinicept.com/)) | 10:15am - 11:00am | Centennial G |
 | Roadblock Talks - How Neobanks Make Money | [Saira Rahman](https://fintechdevcon.io/speakers/saira-rahman/) ([HMBradley](https://www.hmbradley.com/)) | 10:15am - 11:00am | Centennial H |
@@ -79,6 +79,6 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Workshop – Building Inclusive Fintech From Source Code to Messaging  | [Paul Barnes-Hoggett](https://fintechdevcon.io/speakers/paul-barnes-hoggett/) ([Daylight](https://joindaylight.com/)) | 1:30pm - 3:00pm | Centennial C |
 | Roadblock Talks - Dealing with Data in Dynamic Systems | [Trisha Kothari](https://fintechdevcon.io/speakers/trisha-kothari/) ([Unit21](https://www.unit21.ai/)) | 3:15pm - 4:00pm | Centennial H |
 | Roadblock Talks - Fireside Chat with Wade Arnold & Terry Angelos  | [Moov](https://moov.io) & [Visa](https://visa.com) | 2:15pm - 3:00pm | Centennial G |
-| PM Break |  | 3:00pm - 3:45pm | Centennial Foyer |
+| PM Break | - | 3:00pm - 3:45pm | Centennial Foyer |
 | Keynote - From AI to Machine Learning: Fintech Innovation Begins with Data Connectivity | [Brandon Dewitt](https://fintechdevcon.io/speakers/brandon-dewitt/) ([MX](https://www.mx.com/)) | 3:45pm - 4:15pm | Centennial DE |
 | Closing Remarks | [Wade Arnold](https://www.linkedin.com/in/wadearnold/) ([Moov](https://moov.io/)) | 4:15pm - 4:30pm | Centennial DE |
