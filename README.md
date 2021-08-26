@@ -20,19 +20,18 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 - Password: moov2021
 
 ## Tuesday, September 7
-### Registration: 1:00pm-7:00pm
+### Registration: 1:00pm-6:30pm
 | Event             | Time            | Location         |
 |-------------------|-----------------|------------------|
-| Registration Open      | 1:00pm - 5:30pm | Centennial Foyer    |
+| Registration Open      | 1:00pm - 6:30pm | Centennial Foyer    |
 | Welcome Reception | 5:30pm - 7:00pm | Centennial Foyer              |
 | VIP Dinner | 7:30pm - 9:00pm | Invite Only              |
 
 
 ## Wednesday, September 8
-### Registration: 1:00pm-7:00pm
+### Registration: 7:00am-5:00pm
 | Event | Speaker | Time | Location |
 |---|---|---|---|
-| Registration Open | - | 7:30am - 5:00pm | Centennial Foyer |
 | Breakfast | - | 7:00am - 8:00am | Capitol Ballroom |
 | Opening Remarks | [Wade Arnold](https://www.linkedin.com/in/wadearnold/) ([Moov](https://moov.io/)) | 8:00am - 8:10am | Centennial DE |
 | Keynote - What to Expect in Fintech’s Next 10 Years | [Angela Strange](https://fintechdevcon.io/speakers/angela-strange/) ([Andreessen Horowitz](https://a16z.com/)) | 8:10am - 8:45am | Centennial DE |
