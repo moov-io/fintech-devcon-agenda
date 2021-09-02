@@ -25,7 +25,6 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 |-------------------|-----------------|------------------|
 | Registration Open      | 1:00pm - 6:30pm | Centennial Foyer    |
 | Welcome Reception | 5:30pm - 7:00pm | Centennial Foyer              |
-| VIP Dinner | 7:30pm - 9:00pm | Invite Only              |
 
 
 ## Wednesday, September 8
@@ -39,7 +38,6 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Roadblock Talks - Battle Scars From Years of Experience in Lending  | [Mengxi Lu](https://fintechdevcon.io/speakers/mengxi-lu/) ([Kanmon](https://kanmonhq.com/)) | 9:00am - 9:45am | Centennial H |
 | Workshop – Building for the Customer You Want  | [Zach Bruhnke](https://fintechdevcon.io/speakers/zach-bruhnke/) ([HMBradley](https://www.hmbradley.com/)) | 9:00am - 10:30am | Centennial A |
 | Workshop - Deploying Dollars on the Blockchain | [Brent Perreault](https://fintechdevcon.io/speakers/brent-perreault/) & [Ilan Gitter](https://fintechdevcon.io/speakers/ilan-gitter/) ([Paxos](https://www.paxos.com/)) | 9:00am - 10:30am | Centennial C |
-| Workshop – From Product to Platform, How to Design a Platform for Developers  | Jarred Keneally ([Square](https://squareup.com/)) | 9:00am - 10:30am | Centennial F |
 | Workshop – Getting Started With Push Payments | [Visa](https://usa.visa.com/visa-home.html) & [Tabapay](https://www.tabapay.com/) | 9:00am - 10:30am | Centennial G |
 | Roadblock Talks - From the Engine Room to the Bridge: Building Systems and Organizations That Scale | [Steve Robert](https://fintechdevcon.io/speakers/steve-robert/) ([Autobooks](https://www.autobooks.co/)) | 9:45am - 10:30am | Centennial H |
 | Panel – Business of APIs | [Charley Ma](https://fintechdevcon.io/speakers/charley-ma/), [Justin Overdorff](https://fintechdevcon.io/speakers/justin-overdorff/), [Cara Hayward](https://fintechdevcon.io/speakers/cara-hayward/), [Peter Lord](https://fintechdevcon.io/speakers/peter-lord/), [Ryan Sandler](https://fintechdevcon.io/speakers/ryan-sandler/) | 10:45pm - 11:45pm | Centennial DE |
@@ -56,7 +54,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Keynote - Fireside Chat with Tom Adams  | [Tom Adams](https://fintechdevcon.io/speakers/tom-adams/) ([Cash App](https://cash.app/)) | 3:00pm - 3:30pm | Centennial DE |
 | Build a Bike Charity Program | [Third Way Center](https://thirdwaycenter.org/) | 3:45pm - 5:45pm | Minteral Hall  |
 | Sponsors & Brews – Craft Beers at the Brew Pub | [J.P. Morgan](https://www.jpmorgan.com/global) | 3:45pm - 5:45pm | Centennial Foyer  |
-| Dinner & Live Band | - | 6:30pm - 8:30pm | Capitol Ballroom  |
+| Dinner & Live DJ Performance | - | 6:30pm - 8:30pm | Capitol Ballroom  |
 
 ## Thursday, September 9
 ### Registration: 7:00am-5:00pm
@@ -64,7 +62,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 |---|---|---|---|
 | Breakfast | - | 7:30am - 8:30am | Capitol Ballroom  |
 | Opening Remarks | [Moov](https://moov.io/) & [Third Way Center](https://thirdwaycenter.org/) | 8:30am - 8:45am | Centennial DE |
-| Keynote - Fintech is (Almost) Everything: There ’s a Real Impact Where It Isn’t Yet | [Ohad Samet](https://fintechdevcon.io/speakers/ohad-samet/) ([True Accord](https://www.trueaccord.com/)) | 8:45am - 9:15am | Centennial DE |
+| Keynote - Fintech is (Almost) Everything: Slaying Dragons for Fun and Profit | [Ohad Samet](https://fintechdevcon.io/speakers/ohad-samet/) ([True Accord](https://www.trueaccord.com/)) | 8:45am - 9:15am | Centennial DE |
 | AM Break | - | 9:15am - 9:30am | Centennial Foyer |
 | Roadblock Talks - Embracing Developers: The Emergence of Developer-First Banking  | [Brody Mulderig](https://fintechdevcon.io/speakers/brody-mulderig/) ([J.P. Morgan](https://www.jpmorgan.com/global)) | 9:30am - 10:15am | Centennial H |
 | Roadblock Talks - Card Payments 101: From Swipe to Settlement  | [Pritee Tembhekar](https://fintechdevcon.io/speakers/pritee-tembheka/) ([Lithic](https://lithic.com/)) | 9:30am - 10:15am | Centennial G |
@@ -76,10 +74,11 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Roadblock Talks - How Neobanks Make Money | [Saira Rahman](https://fintechdevcon.io/speakers/saira-rahman/) ([HMBradley](https://www.hmbradley.com/)) | 10:15am - 11:00am | Centennial H |
 | Panel – Build vs. Buy | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/), [Zach Bruhnke](https://fintechdevcon.io/speakers/zach-bruhnke/), [Shamir Karkal](https://fintechdevcon.io/speakers/shamir-karkal/), [Jason Henrichs](https://fintechdevcon.io/speakers/jason-henrichs/) | 11:15pm - 12:15pm | Centennial DE |
 | Lunch |  | 12:15am - 1:30am | Capitol Ballroom |
-| Roadblock Talks - Gaps as a Service, What You’re Missing When You Use off the Shelf Tools | [Cokie Hasiotis](https://fintechdevcon.io/speakers/cokie-hasiotis/) (Lasagna Technology) | 1:30pm - 2:15pm | Centennial H |
+| Roadblock Talks - Gaps as a Service, What You’re Missing When You Use off the Shelf Tools | [Cokie Hasiotis](https://fintechdevcon.io/speakers/cokie-hasiotis/) (Twali/Lasagna Technology) | 1:30pm - 2:15pm | Centennial H |
 | Roadblock Talks - Voice of the Member | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/) ([Chime](https://www.chime.com/)) | 1:30pm - 2:15pm | Centennial G |
 | Workshop – Challenges in Building Neobank Infrastructure | [Shamir Karkal](https://fintechdevcon.io/speakers/shamir-karkal/) ([Sila](https://silamoney.com/)) | 1:30pm - 3:00pm | Centennial A |
 | Workshop – Building Inclusive Fintech From Source Code to Messaging  | [Paul Barnes-Hoggett](https://fintechdevcon.io/speakers/paul-barnes-hoggett/) ([Daylight](https://joindaylight.com/)) | 1:30pm - 3:00pm | Centennial C |
+| Workshop – Taming the Data Demon: Learn to Work with Large Data Sets Using HPCC Systems   | Adwait Joshi ([Dataseers](https://www.dataseers.ai/)) | 1:30pm - 3:00pm | Centennial B |
 | Roadblock Talks - Dealing with Data in Dynamic Systems | [Trisha Kothari](https://fintechdevcon.io/speakers/trisha-kothari/) ([Unit21](https://www.unit21.ai/)) | 3:15pm - 4:00pm | Centennial H |
 | Roadblock Talks - Fireside Chat with Wade Arnold & Terry Angelos  | [Moov](https://moov.io) & [Visa](https://visa.com) | 2:15pm - 3:00pm | Centennial G |
 | PM Break | - | 3:00pm - 3:45pm | Centennial Foyer |
