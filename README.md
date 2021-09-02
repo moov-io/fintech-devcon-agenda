@@ -47,7 +47,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Workshop – Intro to IAV Best Practices  | [Adam Hutchison](https://fintechdevcon.io/speakers/adam-hutchison/) ([MX](https://www.mx.com/)) | 1:00pm - 2:30pm | Centennial A |
 | Workshop – Do Compliance the Hard Way | [Joel Tosi](https://www.linkedin.com/in/joel-tosi-a948006/) ([Moov](https://moov.io/)) | 1:00pm - 2:30pm | Centennial B |
 | Workshop - Scraping and Reverse Engineering, You Have to Do It, Might As Well Do It Right  | [Alex Mueller](https://fintechdevcon.io/speakers/alex-mueller/) ([Atomic](https://atomic.vc/)) | 1:00pm - 2:30pm | Centennial C |
-| Workshop – Making It Easy for Banks to Work with You  | [Peter Hazlehurst](https://fintechdevcon.io/speakers/peter-hazelhurst/) ([Synctera](https://www.synctera.com/)) | 1:00pm - 2:30pm | Mineral F |
+| Workshop – Making It Easy for Banks to Work with You  | [Peter Hazlehurst](https://fintechdevcon.io/speakers/peter-hazelhurst/) ([Synctera](https://www.synctera.com/)) | 1:00pm - 2:30pm | Centennial F |
 | Roadblock Talks - On-core vs. Virtual Accounts: What You Need to Know Today  | [Chris Dean](https://fintechdevcon.io/speakers/chris-dean/) ([Treasury Prime](https://www.treasuryprime.com/)) | 1:45pm - 2:30pm | Centennial H |
 | Roadblock Talks - Payments for the 21st Century and Beyond | [Peter Davey](https://fintechdevcon.io/speakers/peter-davey/) ([The Clearing House](https://www.theclearinghouse.org/)) | 1:45pm - 2:30pm | Centennial G|
 | PM Break | - | 2:30pm - 3:00pm | Centennial Foyer |
