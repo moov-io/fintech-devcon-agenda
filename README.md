@@ -45,7 +45,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Roadblock Talks - Engineering Resiliency: How I Learned to Stop Worrying and Love an Outage | [Charles Hearn](https://fintechdevcon.io/speakers/charles-hearn/) ([Alloy](https://www.alloy.com/)) | 1:00pm - 1:45pm | Centennial H |
 | Roadblock Talks - Fintech Fear and Loathing in Banking | [Stuart Cook](https://fintechdevcon.io/speakers/stuart-cook/) ([Valley Bank](https://www.valley.com/)) | 1:00pm - 1:45pm | Centennial G |
 | Workshop – Intro to IAV Best Practices  | [Adam Hutchison](https://fintechdevcon.io/speakers/adam-hutchison/) ([MX](https://www.mx.com/)) | 1:00pm - 2:30pm | Centennial A |
-| Workshop – Do Compliance the Hard Way | (Joel Tosi)[https://www.linkedin.com/in/joel-tosi-a948006/] ([Moov](https://moov.io/)) | 1:00pm - 2:30pm | Centennial B |
+| Workshop – Do Compliance the Hard Way | [Joel Tosi](https://www.linkedin.com/in/joel-tosi-a948006/) ([Moov](https://moov.io/)) | 1:00pm - 2:30pm | Centennial B |
 | Workshop - Scraping and Reverse Engineering, You Have to Do It, Might As Well Do It Right  | [Alex Mueller](https://fintechdevcon.io/speakers/alex-mueller/) ([Atomic](https://atomic.vc/)) | 1:00pm - 2:30pm | Centennial C |
 | Workshop – Making It Easy for Banks to Work with You  | [Peter Hazlehurst](https://fintechdevcon.io/speakers/peter-hazelhurst/) ([Synctera](https://www.synctera.com/)) | 1:00pm - 2:30pm | Mineral F |
 | Roadblock Talks - On-core vs. Virtual Accounts: What You Need to Know Today  | [Chris Dean](https://fintechdevcon.io/speakers/chris-dean/) ([Treasury Prime](https://www.treasuryprime.com/)) | 1:45pm - 2:30pm | Centennial H |
