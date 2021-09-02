@@ -51,7 +51,7 @@ Welcome to Fintech DevCon 2021! We're glad you could join us for three days of d
 | Roadblock Talks - On-core vs. Virtual Accounts: What You Need to Know Today  | [Chris Dean](https://fintechdevcon.io/speakers/chris-dean/) ([Treasury Prime](https://www.treasuryprime.com/)) | 1:45pm - 2:30pm | Centennial H |
 | Roadblock Talks - Payments for the 21st Century and Beyond | [Peter Davey](https://fintechdevcon.io/speakers/peter-davey/) ([The Clearing House](https://www.theclearinghouse.org/)) | 1:45pm - 2:30pm | Centennial G|
 | PM Break | - | 2:30pm - 3:00pm | Centennial Foyer |
-| Keynote - Fireside Chat with Tom Adams  | [Tom Adams](https://fintechdevcon.io/speakers/tom-adams/) ([Cash App](https://cash.app/)) and [Joshua Silver](https://fintechdevcon.io/speakers/joshua-silver/) ([LaunchPath Group](https://www.launchpathgroup.com/))  | 3:00pm - 3:30pm | Centennial DE |
+| Keynote - Fireside Chat with Tom Adams  | [Tom Adams](https://fintechdevcon.io/speakers/tom-adams/) ([Cash App](https://cash.app/)) & [Joshua Silver](https://fintechdevcon.io/speakers/joshua-silver/) ([LaunchPath Group](https://www.launchpathgroup.com/))  | 3:00pm - 3:30pm | Centennial DE |
 | Build a Bike Charity Program | [Third Way Center](https://thirdwaycenter.org/) | 3:45pm - 5:45pm | Minteral Hall  |
 | Sponsors & Brews – Craft Beers at the Brew Pub | [J.P. Morgan](https://www.jpmorgan.com/global) | 3:45pm - 5:45pm | Centennial Foyer  |
 | Dinner & Live DJ Performance | - | 6:30pm - 8:30pm | Capitol Ballroom  |
