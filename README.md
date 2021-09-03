@@ -1,5 +1,8 @@
 <div align="center">
     
+[<img width="700" alt="fintech_devcon_2021_agenda" src="https://user-images.githubusercontent.com/2146381/132057046-e8dbfa8e-aac9-4d59-a3c4-28a64f074408.png">](https://fintechdevcon.io/)
+
+    
 <a href="https://fintechdevcon.io/code-of-conduct/">Code of Conduct</a>
 ·
 <a href="https://slack.moov.io/">Community Slack</a>
