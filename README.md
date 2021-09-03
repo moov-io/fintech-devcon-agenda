@@ -14,7 +14,9 @@
 </div>
 
 # Fintech DevCon 2021 Agenda
-Welcome to Fintech DevCon 2021! We're glad you could join us for three days of developer-focused workshops, keynotes, panels, and networking. Please refer to the agenda below for the most up-to-date conference schedule.
+Welcome to Fintech DevCon 2021! 🎉  
+
+We're glad you could join us for a few days of developer-focused workshops, keynotes, panels, and networking. Please refer to the agenda below for the most up-to-date conference schedule.
 
 ## Wireless Network
 - Network: Moov fintech_devcon
