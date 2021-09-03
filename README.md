@@ -1,7 +1,4 @@
 <div align="center">
-
-[![Fintech DevCon 2021 Banner Logo](<img width="700" alt="fintech_devcon_2021_agenda" src="https://user-images.githubusercontent.com/2146381/132056576-475f0e4f-e264-499a-be78-605b2024c9d9.png">
-)](https://fintechdevcon.io/)
     
 <a href="https://fintechdevcon.io/code-of-conduct/">Code of Conduct</a>
 ·
