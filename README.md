@@ -82,7 +82,7 @@ We're glad you could join us for a few days of developer-focused workshops, keyn
 | Workshop – Challenges in Building Neobank Infrastructure | [Shamir Karkal](https://fintechdevcon.io/speakers/shamir-karkal/) ([Sila](https://silamoney.com/)) | 1:30pm - 3:00pm | Centennial A |
 | Workshop – Building Inclusive Fintech From Source Code to Messaging  | [Paul Barnes-Hoggett](https://fintechdevcon.io/speakers/paul-barnes-hoggett/) ([Daylight](https://joindaylight.com/)) | 1:30pm - 3:00pm | Centennial C |
 | Workshop – Taming the Data Demon: Learn to Work with Large Data Sets Using HPCC Systems   | Adwait Joshi ([Dataseers](https://www.dataseers.ai/)) | 1:30pm - 3:00pm | Centennial B |
-| Workshop – Data Privacy Vault 101: How to Isolate, Protect, and Use Your Sensitive Data   | Evis Drenova & Akshat Agrawal ([Skyflow](https://www.skyflow.com/) | 1:30pm - 3:00pm | TBD |
+| Workshop – Data Privacy Vault 101: How to Isolate, Protect, and Use Your Sensitive Data   | Evis Drenova & Akshat Agrawal ([Skyflow](https://www.skyflow.com/)) | 1:30pm - 3:00pm | TBD |
 | Roadblock Talks - Dealing with Data in Dynamic Systems | [Trisha Kothari](https://fintechdevcon.io/speakers/trisha-kothari/) ([Unit21](https://www.unit21.ai/)) | 2:15pm - 3:00pm | Centennial H |
 | Roadblock Talks - Fireside Chat with Wade Arnold & Terry Angelos  | [Moov](https://moov.io) & [Visa](https://visa.com) | 2:15pm - 3:00pm | Centennial G |
 | PM Break | - | 3:00pm - 3:45pm | Centennial Foyer |
