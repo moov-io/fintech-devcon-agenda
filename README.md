@@ -79,7 +79,7 @@ We're glad you could join us for a few days of developer-focused workshops, keyn
 | Panel – Build vs. Buy | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/), [Zach Bruhnke](https://fintechdevcon.io/speakers/zach-bruhnke/), [Shamir Karkal](https://fintechdevcon.io/speakers/shamir-karkal/), [Jason Henrichs](https://fintechdevcon.io/speakers/jason-henrichs/) | 11:15pm - 12:15pm | Centennial DE |
 | Lunch |  | 12:15am - 1:30am | Capitol Ballroom |
 | Roadblock Talks - Gaps as a Service, What You’re Missing When You Use off the Shelf Tools | [Cokie Hasiotis](https://fintechdevcon.io/speakers/cokie-hasiotis/) (Twali/Lasagna Technology) | 1:30pm - 2:15pm | Centennial H |
-| Roadblock Talks - Voice of the Member | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/) ([Chime](https://www.chime.com/)) | 1:30pm - 2:15pm | Centennial G |
+| Roadblock Talks - Translating Card Auths for Emerging User Expectations | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/) ([Chime](https://www.chime.com/)) | 1:30pm - 2:15pm | Centennial G |
 | Workshop – Challenges in Building Neobank Infrastructure | [Shamir Karkal](https://fintechdevcon.io/speakers/shamir-karkal/) ([Sila](https://silamoney.com/)) | 1:30pm - 3:00pm | Centennial A |
 | Workshop – Building Inclusive Fintech From Source Code to Messaging  | [Paul Barnes-Hoggett](https://fintechdevcon.io/speakers/paul-barnes-hoggett/) ([Daylight](https://joindaylight.com/)) | 1:30pm - 3:00pm | Centennial C |
 | Workshop – Taming the Data Demon: Learn to Work with Large Data Sets Using HPCC Systems   | [Adwait Joshi](https://fintechdevcon.io/speakers/adwait-joshi/) ([Dataseers](https://www.dataseers.ai/)) | 1:30pm - 3:00pm | Centennial B |
