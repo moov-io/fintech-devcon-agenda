@@ -38,7 +38,6 @@ We're glad you could join us for a few days of developer-focused workshops, keyn
 | Opening Remarks | [Wade Arnold](https://www.linkedin.com/in/wadearnold/) ([Moov](https://moov.io/)) | 8:00am - 8:10am | Centennial DE |
 | Keynote - What to Expect in Fintech’s Next 10 Years | [Angela Strange](https://fintechdevcon.io/speakers/angela-strange/) ([Andreessen Horowitz](https://a16z.com/)) | 8:10am - 8:45am | Centennial DE |
 | AM Break | - | 8:45am - 9:00am | Centennial Foyer |
-| Roadblock Talks - Battle Scars From Years of Experience in Lending  | [Mengxi Lu](https://fintechdevcon.io/speakers/mengxi-lu/) ([Kanmon](https://kanmonhq.com/)) | 9:00am - 9:45am | Centennial H |
 | Workshop – Building for the Customer You Want  | [Zach Bruhnke](https://fintechdevcon.io/speakers/zach-bruhnke/) ([HMBradley](https://www.hmbradley.com/)) | 9:00am - 10:30am | Centennial A |
 | Workshop - Deploying Dollars on the Blockchain | [Brent Perreault](https://fintechdevcon.io/speakers/brent-perreault/) & [Ilan Gitter](https://fintechdevcon.io/speakers/ilan-gitter/) ([Paxos](https://www.paxos.com/)) | 9:00am - 10:30am | Centennial C |
 | Workshop – Data Privacy Vault 101: How to Isolate, Protect, and Use Your Sensitive Data   | Evis Drenova & Akshat Agrawal ([Skyflow](https://www.skyflow.com/)) | 9:00am - 10:30am | Centennial F |
