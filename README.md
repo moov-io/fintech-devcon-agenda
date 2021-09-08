@@ -43,8 +43,8 @@ We're glad you could join us for a few days of developer-focused workshops, keyn
 | Workshop – Data Privacy Vault 101: How to Isolate, Protect, and Use Your Sensitive Data   | Evis Drenova & Akshat Agrawal ([Skyflow](https://www.skyflow.com/)) | 9:00am - 10:30am | Centennial F |
 | Workshop – Getting Started With Push Payments | [Visa](https://usa.visa.com/visa-home.html) & [Tabapay](https://www.tabapay.com/) | 9:00am - 10:30am | Centennial G |
 | Roadblock Talks - From the Engine Room to the Bridge: Building Systems and Organizations That Scale | [Steve Robert](https://fintechdevcon.io/speakers/steve-robert/) ([Autobooks](https://www.autobooks.co/)) | 9:45am - 10:30am | Centennial H |
-| Panel – Business of APIs | [Charley Ma](https://fintechdevcon.io/speakers/charley-ma/), [Justin Overdorff](https://fintechdevcon.io/speakers/justin-overdorff/), [Cara Hayward](https://fintechdevcon.io/speakers/cara-hayward/), [Peter Lord](https://fintechdevcon.io/speakers/peter-lord/), [Ryan Sandler](https://fintechdevcon.io/speakers/ryan-sandler/) | 10:45pm - 11:45pm | Centennial DE |
-| Lunch | - | 11:45am - 12:45am | Capitol Ballroom |
+| Panel – Business of APIs | [Charley Ma](https://fintechdevcon.io/speakers/charley-ma/), [Justin Overdorff](https://fintechdevcon.io/speakers/justin-overdorff/), [Cara Hayward](https://fintechdevcon.io/speakers/cara-hayward/), [Peter Lord](https://fintechdevcon.io/speakers/peter-lord/), [Ryan Sandler](https://fintechdevcon.io/speakers/ryan-sandler/) | 10:45am - 11:45am | Centennial DE |
+| Lunch | - | 11:45am - 12:45pm | Capitol Ballroom |
 | Roadblock Talks - Engineering Resiliency: How I Learned to Stop Worrying and Love an Outage | [Charles Hearn](https://fintechdevcon.io/speakers/charles-hearn/) ([Alloy](https://www.alloy.com/)) | 1:00pm - 1:45pm | Centennial H |
 | Roadblock Talks - Fintech Fear and Loathing in Banking | [Stuart Cook](https://fintechdevcon.io/speakers/stuart-cook/) ([Valley Bank](https://www.valley.com/)) | 1:00pm - 1:45pm | Centennial G |
 | Workshop – Intro to IAV Best Practices  | [Adam Hutchison](https://fintechdevcon.io/speakers/adam-hutchison/) ([MX](https://www.mx.com/)) | 1:00pm - 2:30pm | Centennial A |
@@ -76,7 +76,7 @@ We're glad you could join us for a few days of developer-focused workshops, keyn
 | Roadblock Talks - War Stories From a Quarter Century in Payments | Todd Ablowitz ([Infinicept](https://www.infinicept.com/)) | 10:15am - 11:00am | Centennial G |
 | Roadblock Talks - How Neobanks Make Money | [Saira Rahman](https://fintechdevcon.io/speakers/saira-rahman/) ([HMBradley](https://www.hmbradley.com/)) | 10:15am - 11:00am | Centennial H |
 | Panel – Build vs. Buy | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/), [Zach Bruhnke](https://fintechdevcon.io/speakers/zach-bruhnke/), [Shamir Karkal](https://fintechdevcon.io/speakers/shamir-karkal/), [Jason Henrichs](https://fintechdevcon.io/speakers/jason-henrichs/) | 11:15pm - 12:15pm | Centennial DE |
-| Lunch |  | 12:15am - 1:30am | Capitol Ballroom |
+| Lunch |  | 12:15pm - 1:30pm | Capitol Ballroom |
 | Roadblock Talks - Gaps as a Service, What You’re Missing When You Use off the Shelf Tools | [Cokie Hasiotis](https://fintechdevcon.io/speakers/cokie-hasiotis/) (Twali/Lasagna Technology) | 1:30pm - 2:15pm | Centennial H |
 | Roadblock Talks - Translating Card Auths for Emerging User Expectations | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/) ([Chime](https://www.chime.com/)) | 1:30pm - 2:15pm | Centennial G |
 | Workshop – Challenges in Building Neobank Infrastructure | [Shamir Karkal](https://fintechdevcon.io/speakers/shamir-karkal/) ([Sila](https://silamoney.com/)) | 1:30pm - 3:00pm | Centennial A |
