@@ -57,7 +57,7 @@ We're glad you could join us for a few days of developer-focused workshops, keyn
 | Keynote - Fireside Chat with Tom Adams (moderated by Joshua Silver)  | [Tom Adams](https://fintechdevcon.io/speakers/tom-adams/) ([Cash App](https://cash.app/)) & [Joshua Silver](https://fintechdevcon.io/speakers/joshua-silver/) ([LaunchPath Group](https://www.launchpathgroup.com/))  | 3:00pm - 3:30pm | Centennial DE |
 | Build a Bike Charity Program | [Third Way Center](https://thirdwaycenter.org/) | 3:45pm - 5:45pm | Mineral Hall  |
 | Sponsors & Brews – Craft Beers at the Brew Pub | [J.P. Morgan](https://www.jpmorgan.com/global) | 3:45pm - 5:45pm | Centennial Foyer  |
-| Attendee Party & Live DJ Performance | - | 6:30pm - 8:30pm | Capitol Ballroom  |
+| Attendee Party & Live DJ Performance | - | 6:30pm - 8:30pm | Centennial Ballroon  |
 
 ## Thursday, September 9
 ### Registration: 7:00am-5:00pm
