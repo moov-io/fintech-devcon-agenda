@@ -84,5 +84,5 @@ We're glad you could join us for a few days of developer-focused workshops, keyn
 | Roadblock Talks - Dealing with Data in Dynamic Systems | [Trisha Kothari](https://fintechdevcon.io/speakers/trisha-kothari/) ([Unit21](https://www.unit21.ai/)) | 2:15pm - 3:00pm | Centennial H |
 | Roadblock Talks - Fireside Chat with Wade Arnold & Terry Angelos | [Moov](https://moov.io) & [Visa](https://visa.com) | 2:15pm - 3:00pm | Centennial G |
 | PM Break | - | 3:00pm - 3:45pm | Centennial Foyer |
-| Keynote - Translating Card Auths for Emerging User Expectations | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/) ([Chime](https://www.chime.com/)) | 1:30pm - 2:15pm | Centennial DE |
+| Keynote - Translating Card Auths for Emerging User Expectations | [Maia Bittner](https://fintechdevcon.io/speakers/maia-bittner/) ([Chime](https://www.chime.com/)) | 3:45pm - 4:15pm | Centennial DE |
 | Closing Remarks | [Wade Arnold](https://www.linkedin.com/in/wadearnold/) ([Moov](https://moov.io/)) | 4:15pm - 4:30pm | Centennial DE |
